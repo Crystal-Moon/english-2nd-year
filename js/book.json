@@ -1,1054 +1,842 @@
 [
 {
-	"seccion":"1A",
-	"page":"4",
-	"point":"1a",
-	"link":"https://www.dropbox.com/s/nqpg7l1ux2h45o3/1A_1.2.mp3?dl=1",
-	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1A_1.2.mp3"
-},
-{
-	"seccion":"1A",
-	"page":"4",
-	"point":"1d",
-	"link":"https://www.dropbox.com/s/v3w0zn8n5yg0vc0/1A_1.3.mp3?dl=1",
-	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1A_1.3.mp3"
-},
-{
-	"seccion":"1A",
-	"page":"4",
-	"point":"1e",
-	"link":"https://www.dropbox.com/s/1brk7fsxkiaqibo/1A_1.4.mp3?dl=1",
-	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1A_1.4.mp3"
-},
-{
-	"seccion":"1A",
-	"page":"5",
-	"point":"2c",
-	"link":"https://www.dropbox.com/s/49ek0b4osi5qps1/1A_1.6.mp3?dl=1",
-	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1A_1.6.mp3"
-},
-{
-	"seccion":"1A",
-	"page":"5",
-	"point":"2d",
-	"link":"https://www.dropbox.com/s/lhfav2ysxaqms5f/1A_1.7.mp3?dl=1",
-	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1A_1.7.mp3"
-},
-{
-	"seccion":"1A",
-	"page":"5",
-	"point":"3a",
-	"link":"https://www.dropbox.com/s/igueztpeo20og8i/1A_1.8.mp3?dl=1",
-	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1A_1.8.mp3"
-},
-{
-	"seccion":"1A",
-	"page":"5",
-	"point":"3c",
-	"link":"https://www.dropbox.com/s/p242qpcr2ls6ixp/1A_1.9.mp3?dl=0",
-	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1A_1.9.mp3"
-},
-{
-	"seccion":"1A",
-	"page":"5",
-	"point":"4c",
-	"link":"https://www.dropbox.com/s/cgvvp009lb2h159/1A_1.12.mp3?dl=0",
-	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1A_1.12.mp3"
-},
-{
-	"seccion":"1A",
-	"page":"5",
-	"point":"5a",
-	"link":"https://www.dropbox.com/s/90t4ei1apugv8c0/1A_1.13.mp3?dl=0",
-	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1A_1.13.mp3"
-},
-{
-	"seccion":"1A",
-	"page":"5",
-	"point":"5c",
-	"link":"https://www.dropbox.com/s/p63xg8y46pz68n0/1A_1.14.mp3?dl=0",
-	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1A_1.14.mp3"
-},
-{
-	"seccion":"1B",
-	"page":"6",
-	"point":"1c",
-	"link":"https://www.dropbox.com/s/sy4ogefkwdgjytb/1B_1.17.mp3?dl=0",
-	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.17.mp3"
-},
-{
-	"seccion":"1B",
-	"page":"6",
-	"point":"2a",
-	"link":"https://www.dropbox.com/s/n4f9e4dq5r9cz47/1B_1.20.mp3?dl=0",
-	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.20.mp3"
-},
-{
-	"seccion":"1B",
-	"page":"6",
-	"point":"2b",
-	"link":"https://www.dropbox.com/s/ixv6c35x59088xo/1B_1.21.mp3?dl=0",
-	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.21.mp3"
-},
-{
-	"seccion":"1B",
-	"page":"7",
-	"point":"3a",
-	"link":"https://www.dropbox.com/s/02iud0d4tkhzi62/1B_1.22.mp3?dl=0",
-	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.22.mp3"
-},
-{
-	"seccion":"1B",
-	"page":"7",
-	"point":"3e",
-	"link":"https://www.dropbox.com/s/qwm5motvv6dlfss/1B_1.24.mp3?dl=0",
-	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
-},
-{
-	"seccion":"1B",
-	"page":"7",
-	"point":"4a",
-	"link":"https://www.dropbox.com/s/ufsryh2f7bdhzq1/1B_1.25.mp3?dl=0",
-	"downloadLink": ""
-},
-{
-	"seccion":"1B",
-	"page":"7",
-	"point":"5c",
-	"link":"https://www.dropbox.com/s/rvhs6xfsv97vszq/1B_1.27.mp3?dl=0",
-	"downloadLink": ""
-},
-{
-	"seccion":"1B",
-	"page":"7",
-	"point":"6a",
-	"link":"https://www.dropbox.com/s/y0ar1a8abca1dwn/1B_1.28.mp3?dl=0",
-	"downloadLink": ""
-},
-{
-	"seccion":"1B",
-	"page":"7",
-	"point":"6b",
-	"link":"https://www.dropbox.com/s/fyc3wkixtsnj7wr/1B_1.29.mp3?dl=0",
-	"downloadLink": ""
-},
-
-
-{
 	"seccion":"6A",
 	"page":"44",
 	"point":"1d",
-	"link":"https://www.dropbox.com/s/bm7v0o98upuvus1/6A_3.22.mp3?dl=0",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/bm7v0o98upuvus1/6A_3.22.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=6A_3.22.mp3"
 },
 {
 	"seccion":"6A",
 	"page":"44",
 	"point":"2a",
-	"link":"https://www.dropbox.com/s/1uoxvxvavc04j0u/6A_3.23.mp3?dl=0",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/1uoxvxvavc04j0u/6A_3.23.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=6A_3.23.mp3"
 },
 {
 	"seccion":"6A",
 	"page":"44",
 	"point":"2b",
-	"link":"https://www.dropbox.com/s/k3yvtfzy4dy44z3/6A_3.24.mp3?dl=0",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/k3yvtfzy4dy44z3/6A_3.24.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=6A_3.24.mp3"
 },
 {
 	"seccion":"6A",
 	"page":"44",
 	"point":"2c",
-	"link":"https://www.dropbox.com/s/29d5zf85ny168qi/6A_3.25.mp3?dl=0",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/29d5zf85ny168qi/6A_3.25.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=6A_3.25.mp3"
 },
 {
 	"seccion":"6A",
 	"page":"44",
 	"point":"2d",
-	"link":"https://www.dropbox.com/s/uvn9u72mxzym8mo/6A_3.26.mp3?dl=0",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/uvn9u72mxzym8mo/6A_3.26.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=6A_3.26.mp3"
 },
 
 {
 	"seccion":"6A",
 	"page":"45",
 	"point":"3a",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/ofn4ce17k473orn/6A_3.27.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=6A_3.27.mp3"
 },
 {
 	"seccion":"6A",
 	"page":"45",
 	"point":"3c",
-	"link":"",
-	"downloadLink": ""
-},{
+	"link":"https://www.dropbox.com/s/hv13qyeythgjhpf/6A_3.28.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=6A_3.28.mp3"
+},
+{
 	"seccion":"6B",
 	"page":"46",
 	"point":"1c",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/pperfht2rtrvylh/6B_3.31.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=6A_3.31.mp3"
 },
 {
 	"seccion":"6B",
 	"page":"46",
 	"point":"1d",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/zofuv65c1mqkngo/6B_3.32.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=6B_3.32.mp3"
 },
 {
 	"seccion":"6B",
 	"page":"47",
 	"point":"3a",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/e0olfn8rfqnauf6/6B_3.33.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=6B_3.33.mp3"
 },
 {
 	"seccion":"6C",
 	"page":"48",
 	"point":"1a",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/r7dl9k30b2fqe1u/6C_3.35.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=6C_3.35.mp3"
 },
 {
 	"seccion":"6C",
 	"page":"48",
 	"point":"2c",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/ghosnmv6qew4hg8/6C_3.38.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 
 {
 	"seccion":"6C",
 	"page":"48",
 	"point":"3a",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/zy5955tf0fnjqgo/6C_3.39.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },{
 	"seccion":"6C",
 	"page":"48",
 	"point":"3b",
-	"link":"",
-	"downloadLink": ""
-},
-{
-	"seccion":"6C",
-	"page":"49",
-	"point":"7a",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/vwrcwl8r3gjqsmf/6C_3.40.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"5-6 Revise and Check",
 	"page":"51",
 	"point":"3",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/ujz14ekj86l9o3x/6R%2BC_3.42.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 
 {
 	"seccion":"7A",
 	"page":"52",
 	"point":"1b",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/e02wxjmebxgzcwu/7A_3.43.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"7A",
 	"page":"52",
 	"point":"2a",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/z2al2jrvj21lvsu/7A_3.45.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },{
 	"seccion":"7A",
 	"page":"52",
 	"point":"2b",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/3mkqvql18x4b7mq/7A_3.46.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"7A",
 	"page":"53",
 	"point":"3b",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/38xrshmadl8o4m8/7A_3.47.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 
 {
 	"seccion":"7A",
 	"page":"53",
 	"point":"4c",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/dn1mh6qv2gspll8/7A_3.48.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },{
 	"seccion":"7A",
 	"page":"53",
 	"point":"5a",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/fwnfje3alrb5fvh/7A_3.49.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"7B",
 	"page":"54",
 	"point":"1a",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/og56okg9i2vjy7t/7B_3.50.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 
 {
 	"seccion":"7B",
 	"page":"54",
 	"point":"1b",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/5cjbclvrapxdzuh/7B_3.51.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"7B",
 	"page":"54",
 	"point":"1c",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/m5esv7ctzd4vly4/7B_3.52.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"7B",
 	"page":"55",
 	"point":"3a",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/ywrjnm07lon1c68/7B_3.54.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"7B",
 	"page":"55",
 	"point":"3b",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/tnqblaj2noak569/7B_3.55.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"7B",
 	"page":"55",
 	"point":"3c",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/hbzrsaauts6mod8/7B_3.56.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 
 {
 	"seccion":"7B",
 	"page":"55",
 	"point":"4b",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/i3v4zjdscwcwccz/7B_3.57.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"7C",
 	"page":"57",
 	"point":"2b",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/dcsz6gyx184sic1/7C_3.58.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"7C",
 	"page":"57",
 	"point":"3b",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/3rrc8h21up45rew/7C_3.60.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"7C",
 	"page":"57",
 	"point":"5b",
-	"link":"",
-	"downloadLink": ""
-},
-{
-	"seccion":"7C",
-	"page":"57",
-	"point":"7a",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/rotyy4tulxk79hh/7C_3.62.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"Practical English",
 	"page":"58",
 	"point":"1a",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/4sokzx7dg54yk94/7PE_3.64.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"Practical English",
 	"page":"58",
 	"point":"2b",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/lxfasibsikp9o9w/7PE_3.65.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"Practical English",
 	"page":"58",
 	"point":"3a",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/k0ho9hwbpd7411w/7PE_3.66.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"Practical English",
 	"page":"59",
 	"point":"3c",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/0ruws2bvhsovxj8/7PE_3.67.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"Practical English",
 	"page":"59",
 	"point":"4a",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/waqew6cx3wrj2js/7PE_3.68.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"Practical English",
 	"page":"59",
 	"point":"4d",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/cuznroqeenqt39w/7PE_3.69.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"8A",
 	"page":"60",
 	"point":"1b",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/1mkm7u4prxadsr9/8A_4.2.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"8A",
 	"page":"60",
 	"point":"2a",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/mtdmtcjccslkdrd/8A_4.3.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"8A",
 	"page":"60",
 	"point":"2b",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/qlpy7aealdk4818/8A_4.4.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"8A",
 	"page":"60",
 	"point":"2c",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/j9n7iapa2bjoz22/8A_4.5.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"8A",
 	"page":"61",
 	"point":"3a-6",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/dznpr2rjyxqntq6/8A_4.6.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"8A",
 	"page":"61",
 	"point":"3a-7",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/8i5xccqt11t56wi/8A_4.7.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"8A",
 	"page":"61",
 	"point":"3a-8",
-	"link":"",
-	"downloadLink": ""
-},
-{
-	"seccion":"8A",
-	"page":"61",
-	"point":"3c",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/jnlwap9y0f5odap/8A_4.8.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"8A",
 	"page":"61",
 	"point":"4b",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/dlw63ap2mrq670r/8A_4.10.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"8B",
 	"page":"62",
 	"point":"2a",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/v5no5834pmusllh/8B_4.13.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"8B",
 	"page":"62",
 	"point":"2c",
-	"link":"",
-	"downloadLink": ""
-},
-{
-	"seccion":"8B",
-	"page":"63",
-	"point":"2d",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/b84spmm8nwb8jyb/8B_4.14.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"8B",
 	"page":"63",
 	"point":"4a",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/c7rzyf3jkt4v2d5/8B_4.17.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"8B",
 	"page":"63",
 	"point":"4c",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/i3h96e95cwbzuc1/8B_4.18.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"8B",
 	"page":"63",
 	"point":"4d",
-	"link":"",
-	"downloadLink": ""
-},
-{
-	"seccion":"8B",
-	"page":"63",
-	"point":"7a",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/dg5sad3g210t6yo/8B_4.19.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"8C",
 	"page":"65",
 	"point":"3a",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/jba4kwo3h00p6cr/8C_4.23.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"8C",
 	"page":"65",
 	"point":"4a",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/p4zxj1v8q6wdb9r/8C_4.24.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"8C",
 	"page":"65",
 	"point":"4b",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/ozl9limprafqzgz/8C_4.25.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"8C",
 	"page":"65",
 	"point":"5a",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/7bzyvxlfo4855wi/8C_4.26.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"8 Revise and Check",
 	"page":"67",
 	"point":"4-28",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/j7723cp5j2njw0r/8R%2BC_4.28.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"9A",
 	"page":"69",
 	"point":"4b",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/q2rq42pd7iwqi5c/9A_4.31.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"9A",
 	"page":"69",
 	"point":"6b",
-	"link":"",
-	"downloadLink": ""
-},
-{
-	"seccion":"9A",
-	"page":"69",
-	"point":"3c",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/crzwf22axrzhpjm/9A_4.32.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"9A",
 	"page":"69",
 	"point":"6c",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/59dmhgahyh9nrt5/9A_4.33.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"9A",
 	"page":"69",
 	"point":"6e",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/fr7y7i7svbljt6n/9A_4.34.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"9B",
 	"page":"70",
 	"point":"1a",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/otrtjsw74cpu1ed/9B_4.35.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"9B",
 	"page":"70",
 	"point":"1b",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/v81i9o75xjh02o8/9B_4.36.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"9B",
 	"page":"70",
 	"point":"3a",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/8pn7e3xuc7n3qy1/9B_4.38.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"9B",
 	"page":"70",
 	"point":"3b",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/xj1vi5h3turd06j/9B_4.39.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"9B",
 	"page":"70",
 	"point":"3c",
-	"link":"",
-	"downloadLink": ""
-},
-
-{
-	"seccion":"9B",
-	"page":"71",
-	"point":"6a",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/8jgeucfovz8rwyl/9B_4.40.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"9C",
 	"page":"72",
 	"point":"1b",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/b67b9uxup35slgi/9C_4.42.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"9C",
 	"page":"72",
 	"point":"1e",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/0n2rdofkhb4bwd1/9C_4.44.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"9C",
 	"page":"72",
 	"point":"2a",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/f22rxfh8egdm5w0/9C_4.45.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"9C",
 	"page":"72",
 	"point":"2c",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/mvspc1avcckdh4m/9C_4.46.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"9C",
 	"page":"73",
 	"point":"4a",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/pq9upx1cqlj617q/9C_4.48.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"Practical English",
 	"page":"74",
 	"point":"1a",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/iciwgiazm8tyo48/9PE_4.49.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"Practical English",
 	"page":"74",
 	"point":"1c",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/y2q8idrhc3zaco8/9PE_4.50.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"Practical English",
 	"page":"74",
 	"point":"1d",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/so6zqc4lpu200iq/9PE_4.51.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"Practical English",
 	"page":"74",
 	"point":"2b",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/xwrkgt1udlog1up/9PE_4.52.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 
 {
 	"seccion":"Practical English",
 	"page":"75",
 	"point":"3a",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/i26d3jclr1jf50v/9PE_4.53.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"Practical English",
 	"page":"75",
 	"point":"3c",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/oht65nhp5g5uue6/9PE_4.54.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"Practical English",
 	"page":"75",
 	"point":"4a",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/01jly1ckjrai4cz/9PE_4.55.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"Practical English",
 	"page":"75",
 	"point":"4c",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/40da8w49nvajal2/9PE_4.56.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"10A",
 	"page":"76",
 	"point":"1b",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/rhggwz7dutmmr6v/10A_5.2.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"10A",
 	"page":"76",
 	"point":"2b",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/m4ocbf4dbp41ags/10A_5.4.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 
 {
 	"seccion":"10A",
 	"page":"77",
 	"point":"3a",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/zmkcrdnrz3me0qv/10A_5.6.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"10A",
 	"page":"77",
 	"point":"3b",
-	"link":"",
-	"downloadLink": ""
-},
-{
-	"seccion":"10A",
-	"page":"77",
-	"point":"3c",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/ik7u0vg4agy6ls6/10A_5.7.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"10B",
 	"page":"78",
 	"point":"1b",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/o42ojorvei8rhuc/10B_5.8.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"10B",
 	"page":"78",
 	"point":"1c",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/8s04bucrfp9zxum/10B_5.9.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"10B",
 	"page":"78",
 	"point":"2a",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/k61qw29gltk1uas/10B_5.10.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"10B",
 	"page":"78",
 	"point":"2f",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/eroayd702an6yjz/10B_5.12.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"10B",
 	"page":"79",
 	"point":"3a",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/b9i3qnmlkuvj7d5/10B_5.13.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"10C",
 	"page":"80",
 	"point":"2a",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/55zqca8llqq1oou/10C_5.14.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"10C",
 	"page":"80",
 	"point":"2b",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/ympudlfvl62i558/10C_5.15.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"10C",
 	"page":"80",
 	"point":"2c",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/v4chv3m3lbugq5m/10C_5.16.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 
 {
 	"seccion":"10C",
 	"page":"80",
 	"point":"2d",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/7h7jkg8uh0y9qll/10C_5.17.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },{
+	"seccion":"10C",
+	"page":"80",
+	"point":"2e",
+	"link":"https://www.dropbox.com/s/3knbdff2w300p2g/10C_5.18.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
+},
+{
 	"seccion":"10C",
 	"page":"81",
 	"point":"4a",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/3an8vpn9mql3ds8/10C_5.20.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 
 {
 	"seccion":"10C",
 	"page":"81",
 	"point":"4b",
-	"link":"",
-	"downloadLink": ""
-},
-{
-	"seccion":"10C",
-	"page":"81",
-	"point":"4b",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/uhx4makvmwc1bwg/10C_5.21.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"10C",
 	"page":"81",
 	"point":"4c",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/bdfq9wwe5ybcqof/10C_5.22.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
-	"seccion":"10C",
-	"page":"81",
-	"point":"6a",
-	"link":"",
-	"downloadLink": ""
-},{
 	"seccion":"9&10 Revise and Check",
 	"page":"83",
 	"point":"5-24",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/jjcz08rnrziep6o/10R%2BC_5.24.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"11A",
 	"page":"85",
 	"point":"2d",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/9lygh113d3fong2/11A_5.27.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"11A",
 	"page":"85",
 	"point":"3b",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/yrmldj1s765ilh3/11A_5.28.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 
 {
 	"seccion":"11A",
 	"page":"85",
 	"point":"3c",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/f1817m4qeqbyhto/11A_5.29.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"11A",
 	"page":"85",
 	"point":"4a",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/0h8a59tewxlwv0q/11A_5.30.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"11B",
 	"page":"87",
 	"point":"3a",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/78dxga18afa08j1/11B_5.32.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"11B",
 	"page":"87",
 	"point":"3b",
-	"link":"",
-	"downloadLink": ""
-},
-{
-	"seccion":"11B",
-	"page":"87",
-	"point":"6a",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/fzklnea0geb1qis/11B_5.33.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"11C",
 	"page":"88",
 	"point":"1c",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/axwbqn6dmj9l83o/11C_5.35.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"11C",
 	"page":"89",
 	"point":"2c",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/1qok3rc5pfup0kr/11C_5.36.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"Prctical English",
 	"page":"90",
 	"point":"1a",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/8om0o1b2zyz6w57/11PE_5.38.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"Practical English",
 	"page":"90",
 	"point":"2b",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/5gr25bgzh556kem/11PE_5.39.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 
 {
 	"seccion":"Practical English",
 	"page":"91",
 	"point":"3a",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/u4p673pff5w3vo4/11PE_5.40.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },{
 	"seccion":"Practical English",
 	"page":"91",
 	"point":"3c",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/03ymrss8l6ytl3u/11PE_5.41.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 
 {
 	"seccion":"Practical English",
 	"page":"91",
 	"point":"4a",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/h73z6plew2zw1yh/11PE_5.42.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"Practical English",
 	"page":"91",
 	"point":"4c",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/vr6gnbq82dyd701/11PE_5.43.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"12A",
 	"page":"92",
 	"point":"1b",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/ay4m9tfykaqjhpd/12A_5.44.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },{
 	"seccion":"12A",
 	"page":"93",
 	"point":"2a",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/d3kceo4hqr80izv/12A_5.46.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 
 {
 	"seccion":"12A",
 	"page":"93",
 	"point":"3b",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/yreydpqkrxwijwf/12A_5.47.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"12A",
 	"page":"93",
 	"point":"3c",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/smcsh7mq30jrphn/12A_5.48.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },{
 	"seccion":"12A",
 	"page":"93",
 	"point":"4c",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/qah0sczygavgl6a/12A_5.49.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
-{
-	"seccion":"12A",
-	"page":"93",
-	"point":"5a",
-	"link":"",
-	"downloadLink": ""
-},
-
 {
 	"seccion":"12B",
 	"page":"94",
 	"point":"1b",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/vbp6ar5vca1xi3r/12B_5.51.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"12B",
 	"page":"95",
 	"point":"3b",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/xz8jc4gwmd6uqys/12B_5.54.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"12B",
 	"page":"95",
 	"point":"3d",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/ulotln3hw9oqebd/12B_5.55.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"12C",
 	"page":"97",
 	"point":"3b",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/gb4m02pla8v2uyj/12C_5.56.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 },
 {
 	"seccion":"11&12 Revise and Check",
 	"page":"99",
 	"point":"5-57",
-	"link":"",
-	"downloadLink": ""
+	"link":"https://www.dropbox.com/s/xsnhf75f38ha7yl/12R%2BC_5.57.mp3?dl=1",
+	"downloadLink": "https://www.dropbox.com/home/audio_english/book?preview=1B_1.24.mp3"
 }
 ]

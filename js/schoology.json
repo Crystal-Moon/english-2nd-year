@@ -1,10 +1,100 @@
 [
 {
-	"seccion":"",
-	"page":"",
-	"point":"",
-	"link":"",
+	"seccion":"6",
+	"page":"pdf",
+	"point":"1",
+	"link":"https://www.dropbox.com/s/xqiecx4x9al2tem/sch_6_1.mp3?dl=1",
 	"downloadLink": ""
 },
-
+{
+	"seccion":"6",
+	"page":"pdf",
+	"point":"2",
+	"link":"https://www.dropbox.com/s/3llmsrlcj08813t/sch_6_2.mp3?dl=1",
+	"downloadLink": ""
+},
+{
+	"seccion":"7",
+	"page":"pdf",
+	"point":"1",
+	"link":"https://www.dropbox.com/s/jhbuq1nwdhz22uw/sch_7_1.mp3?dl=1",
+	"downloadLink": ""
+},
+{
+	"seccion":"7",
+	"page":"pdf",
+	"point":"2",
+	"link":"https://www.dropbox.com/s/bkb7wo5njs13h2y/sch_7_2.mp3?dl=1",
+	"downloadLink": ""
+},
+{
+	"seccion":"8",
+	"page":"pdf",
+	"point":"1",
+	"link":"https://www.dropbox.com/s/q728m4frnkkjyoc/sch_8_1.mp3?dl=1",
+	"downloadLink": ""
+},
+{
+	"seccion":"8",
+	"page":"pdf",
+	"point":"2",
+	"link":"https://www.dropbox.com/s/gsvlpt39aohhhsw/sch_8_2.mp3?dl=1",
+	"downloadLink": ""
+},
+{
+	"seccion":"9",
+	"page":"pdf",
+	"point":"1",
+	"link":"https://www.dropbox.com/s/tpljvoo2e936mmo/sch_9_1.mp3?dl=1",
+	"downloadLink": ""
+},
+{
+	"seccion":"9",
+	"page":"pdf",
+	"point":"2",
+	"link":"https://www.dropbox.com/s/y36b4dyr1htoac0/sch_9_2.mp3?dl=1",
+	"downloadLink": ""
+},
+{
+	"seccion":"10",
+	"page":"pdf",
+	"point":"1",
+	"link":"https://www.dropbox.com/s/y36b4dyr1htoac0/sch_9_2.mp3?dl=1",
+	"downloadLink": ""
+},
+{
+	"seccion":"10",
+	"page":"pdf",
+	"point":"2",
+	"link":"https://www.dropbox.com/s/y36b4dyr1htoac0/sch_9_2.mp3?dl=1",
+	"downloadLink": ""
+},
+{
+	"seccion":"11",
+	"page":"pdf",
+	"point":"1",
+	"link":"https://www.dropbox.com/s/r7v4xxbk3avepo9/sch_11_1.mp3?dl=1",
+	"downloadLink": ""
+},
+{
+	"seccion":"11",
+	"page":"pdf",
+	"point":"2",
+	"link":"https://www.dropbox.com/s/bs3sxqn8idykcwi/sch_11_2.mp3?dl=1",
+	"downloadLink": ""
+},
+{
+	"seccion":"12",
+	"page":"pdf",
+	"point":"1",
+	"link":"https://www.dropbox.com/s/rwccomqwpy9azf3/sch_12_1.mp3?dl=1",
+	"downloadLink": ""
+},
+{
+	"seccion":"12",
+	"page":"pdf",
+	"point":"2",
+	"link":"https://www.dropbox.com/s/m868p3ci59v6oh9/sch_12_2.mp3?dl=1",
+	"downloadLink": ""
+}
 ]

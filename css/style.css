@@ -9,7 +9,7 @@ html, body{
 body{
     display: flex;
     flex-direction: column;
-    background-color: red;
+    background-color: #8BC34A;
 }
 
 div{
@@ -20,6 +20,8 @@ div{
 main{
 	margin-top: 9rem;
 	width: 100%;
+    display: flex;
+    flex-direction: column;
 }
 a{
 	text-decoration: none;
@@ -40,7 +42,7 @@ header{
     display: flex;
     flex-direction: column;
     height: auto;width: 100%;
-    padding: 1%;
+   /* padding: 1%; */
     background-color: #4d4d4d;
     position: fixed;top: 0;
     box-sizing: border-box;
@@ -56,7 +58,8 @@ header{
 nav{
 display: flex;
     justify-content: space-around;
-    height: 75%;
+    margin: 0.8em;
+ /*   height: 75%;*/
 }
 nav div{
 	   justify-content: center;
@@ -140,8 +143,13 @@ h1{
     color: white;
     font-family: 'Lobster', cursive;
     margin-top: 0.2em;
+    padding-top: 0.2em;
     font-weight: 100;
     font-size: 3em;
+    width: 100%;
+    text-align: center;
+
+    background-color: #8BC34A;
 }
 
 /* **** MAIN **** */
@@ -268,7 +276,68 @@ audio{
 }
 
 /* **** OTHER **** */
+#loader{
+    position: absolute;
+    z-index: 2000;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.59);
+    flex-direction: column;
+    display: flex;
 
+}
+#loader img{
+        display: block;
+    height: auto;
+   
+    top: 0;
+    position: relative;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    margin-left: auto;
+    margin-right: auto;
+        width: 33%;
+    margin-top: 7%;
+}
+#loader p{
+    font-size: 2.5rem;
+    text-align: center;
+        position: relative;
+    display: block;
+    margin-bottom: auto;
+    font-family: 'Lobster', cursive;
+}
+
+h2{
+    margin: 0.5rem;
+    font-size: 2rem;
+     font-family: 'Righteous', cursive;
+         text-align: center;
+    font-weight: 100;
+    color: white;
+}
+#i1, #i2, #i3, main p{
+    
+        display: block;
+ 
+    padding: 0.3rem;
+    border: 2px solid;
+    border-radius: 12px;
+    background-color: rgba(232, 241, 144, 0.54);
+
+        width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+#i1, #i2{
+    display: none;
+}
+ main p{
+        margin-bottom: 5rem;
+    }
 /* ==========================================================================
    MEDIA QUERIES
    ========================================================================== */
@@ -291,6 +360,7 @@ audio{
     }
     main{
         margin-top: 5rem;
+        overflow: scroll;
     }
     #pestana{
         display: block;
@@ -301,6 +371,7 @@ audio{
         margin-right: auto;
         display: block;
         margin-top: 0.2em;
+        margin-bottom: 0.2em;
     }
     #nav{
         display: none; 
@@ -308,6 +379,7 @@ audio{
     nav{
         height: max-content;
         flex-direction: column;
+        margin: 0;
     }
     nav div{
         width: 90%;
@@ -396,5 +468,18 @@ audio{
         height: 1.5em;
         margin-right: 0.5em;
     }
-
+    /** other **/
+    #loader img{
+         width: 62%;
+    margin-top: 33%;
+    }
+    #loader p{
+        font-size: 2rem;
+    }
+    #i1,#i2,#i3, main p{
+        display: block;
+        width: 94%;
+    }
+   
+   
 }

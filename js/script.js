@@ -2,43 +2,36 @@
 /*   **** menu vista mobile ****  */
 const menuNav=document.getElementById('nav');
 const arrow=document.getElementById('imgArrow');
-function showMenu(){
 
+function showMenu(){
 	if(menuNav.dataset.state=='hidden'){
 		menuNav.dataset.state='show';
 		menuNav.style.display = 'flex';
-		arrow.src='imgs/arrowUp.png';
-		console.log('mostrando...')
+		arrow.src=menuNav.dataset.ruteImg+'/arrowUp.png';
 	}else{
 		menuNav.dataset.state='hidden';
 		menuNav.style.display = 'none';
-		arrow.src='imgs/arrowDown.png';
-		console.log('ocultando...')
+		arrow.src=menuNav.dataset.ruteImg+'arrowDown.png';
 	}
 }
 
-let prueba={
-	seccion:"1A",
-	page:"4",
-	point:"1a",
-	link:"https://www.dropbox.com/s/g8nwp5xsyotlgl3/Track%2015.mp3?dl=1",
-	downloadLink: "https://www.dropbox.com/home/audio_english?preview=Track+15.mp3"
-}
-
 /* ****** obtener json ******/
-const ARRAY_SONG=[]
+var ARRAY_SONG=[]
+
 function getAudios(){
 	fetch(RUTA_JSON)
 	.then(res=>res.json())
-	.then(data=>{ 
-		ARRAY_SONG=data 
-		createSong(ARRAY_SONG[0])
+	.then(data=>{
+		ARRAY_SONG=data;
+		createSong(ARRAY_SONG[0]);
 	})
 }
 
 /******  carga de pagina ******/
 const LIST=document.getElementById('list')
-let x=0;
+const LOADER=document.getElementById('loader')
+const PROGRESS=document.getElementById('progress')
+var x=0;
 
 function createSong(obj){
   if(x<ARRAY_SONG.length){
@@ -51,16 +44,18 @@ function createSong(obj){
 	<div class="songName">${name}</div>
 	<div class="btns">
 	  <div class="play" onclick="playAudio(this,'${name}')" data-state="pause"></div>
-	  <a href="${obj.downloadLink}" target="_blank" class="download"></a>
+	  <a href="${obj.link}" target="_blank" class="download"></a>
 	</div>`
 	LIST.append(div)
+	PROGRESS.innerHTML=`${parseFloat(x*100/ARRAY_SONG.length).toFixed(2)}%`
 	x++;
 	createSong(ARRAY_SONG[x]);
+  }else{
+  	LOADER.style.display='none';
   }
 }
 
 /* ****** PLAY AUDIO ****** */
-
 const audio=document.getElementById('audio');
 const nameSong=document.getElementById('playName')
 
