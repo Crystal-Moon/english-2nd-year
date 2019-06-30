@@ -1,0 +1,53 @@
+
+#body-b{
+    background-color: #ec8686;
+}
+
+/* **** MAIN **** */
+.page{
+    background-color: #f7d18c;
+}
+.songName{
+    background-color: orange;
+}
+.btns{
+    background-color: orange;
+}
+
+/* footer */
+footer{
+    padding-top: 0.7em;
+    padding-bottom: 5em;
+    position: relative;
+    margin-top: auto;
+}
+/*
+footer *{
+    font-size: 1em;
+}
+#logo{
+    height: 1em;
+    display: inline-block;
+    width: 1em;
+    background-image: url('../imgs/logo_CM.png');
+
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-right: 0.2em;
+    margin-left: 0.2em;
+}
+*/
+/* QUERI MEDIA */
+@media screen and (max-width:877px) {
+
+    footer{
+        padding-bottom: 9em;
+    }
+    footer *{
+        font-size: 1em;
+    }
+    #logo{
+        height: 1.5em;
+        width: 1.5em;
+    }
+}

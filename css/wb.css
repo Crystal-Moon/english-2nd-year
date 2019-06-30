@@ -1,0 +1,39 @@
+
+#body-wb{
+    background-color: #564d4d;
+}
+
+/* **** MAIN **** */
+.page{
+    background-color: #ffffff;
+}
+.songName{
+    background-color: #a59c8d;
+}
+.btns{
+    background-color: #a59c8d;
+}
+
+/* footer */
+footer{
+    padding-top: 0.7em;
+    padding-bottom: 5em;
+    position: relative;
+    margin-top: auto;
+}
+
+/* QUERI MEDIA */
+@media screen and (max-width:877px) {
+
+    footer{
+        font-size: 1em;
+        padding-bottom: 9em;
+    }
+    footer *{
+        font-size: 1em;
+    }
+    #logo{
+        height: 1.5em;
+        width: 1.5em;
+    }
+}
