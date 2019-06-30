@@ -225,6 +225,9 @@ footer{
 footer *{
     font-size: 1em;
 }
+footer a{
+    text-decoration: underline;
+}
 #logo{
     height: 1em;
     display: inline-block;
